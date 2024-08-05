@@ -3,7 +3,7 @@ student-performance-analysis/
 ├── README.md
 ├── data/
 │   ├── raw/
-│   │   └── student_data.csv
+│   │   └── RAW_student_data.csv
 │   ├── processed/
 │   └── cleaned_data.csv
 ├── notebooks/
