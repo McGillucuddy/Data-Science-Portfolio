@@ -1,0 +1,17 @@
+student-performance-analysis/
+│
+├── README.md
+├── data/
+│   ├── raw/
+│   │   └── student_data.csv
+│   ├── processed/
+│   └── cleaned_data.csv
+├── notebooks/
+│   └── analysis_notebook.ipynb
+├── scripts/
+│   ├── data_cleaning.py
+│   └── analysis.py
+├── results/
+│   ├── visualizations/
+│   └── summary_report.pdf
+└── .gitignore
